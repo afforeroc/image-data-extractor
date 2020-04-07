@@ -1,4 +1,5 @@
-# OCR demo using Watson Compare &amp; Comply
+# Image data extractor using Watson Compare &amp; Comply
+Extractor of text on images and documents using Watson Compare & Comply service of IBM Cloud.
 
 ## Requeriments
 [Python](https://www.python.org/downloads/)
